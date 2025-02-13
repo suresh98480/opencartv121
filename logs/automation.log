@@ -1,0 +1,51 @@
+18:21:00.689 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\core java practice\opencartv121\master.xml
+
+18:21:19.429 [main] INFO  testCases.TC001_AccountRegistration - ****Starting  TC001_AccountRegistration *****
+18:21:20.219 [main] INFO  testCases.TC001_AccountRegistration - **clicked on my Account**
+18:21:21.443 [main] INFO  testCases.TC001_AccountRegistration - **clicked on register
+18:21:24.479 [main] INFO  testCases.TC001_AccountRegistration - **entered all the details**
+18:21:25.410 [main] INFO  testCases.TC001_AccountRegistration - **confirming the details
+18:21:25.485 [main] ERROR testCases.TC001_AccountRegistration - test failed
+18:21:25.485 [main] DEBUG testCases.TC001_AccountRegistration - debug logs
+18:22:19.998 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\core java practice\opencartv121\master.xml"
+18:22:20.737 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\core java practice\opencartv121\master.xml
+
+18:24:20.638 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\core java practice\opencartv121\master.xml"
+18:24:21.247 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\core java practice\opencartv121\master.xml
+
+18:25:43.438 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\core java practice\opencartv121\master.xml"
+18:25:44.170 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\core java practice\opencartv121\master.xml
+
+18:29:17.005 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\core java practice\opencartv121\master.xml"
+18:29:17.595 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\core java practice\opencartv121\master.xml
+
+18:29:58.354 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\core java practice\opencartv121\master.xml"
+18:29:58.951 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\core java practice\opencartv121\master.xml
+
+18:45:50.052 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\core java practice\opencartv121\master.xml"
+18:45:50.783 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\core java practice\opencartv121\master.xml
+
+18:48:51.441 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\core java practice\opencartv121\master.xml"
+18:48:51.965 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\core java practice\opencartv121\master.xml
+
+21:56:52.944 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\core java practice\opencartv121\master.xml"
+21:56:53.883 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\core java practice\opencartv121\master.xml
+
+21:59:28.995 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\core java practice\opencartv121\master.xml"
+21:59:29.545 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\core java practice\opencartv121\master.xml
+
+21:59:45.106 [main] INFO  testCases.TC001_AccountRegistration - ****Starting  TC001_AccountRegistration *****
+21:59:46.743 [main] INFO  testCases.TC001_AccountRegistration - **clicked on my Account**
+21:59:47.509 [main] INFO  testCases.TC001_AccountRegistration - **clicked on register
+21:59:48.746 [main] INFO  testCases.TC001_AccountRegistration - **entered all the details**
+21:59:49.671 [main] INFO  testCases.TC001_AccountRegistration - **confirming the details
